@@ -1,1 +1,1 @@
-# YOLOv8_FSN_SORT
+# Individual plant detection and tracking for agricultural robotics in precision field management
