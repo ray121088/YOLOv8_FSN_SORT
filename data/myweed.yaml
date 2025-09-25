@@ -1,8 +1,0 @@
-train:  F:/yolov5-master/WEEDData/dataSet_path/train.txt
-val:  F:/yolov5-master/WEEDData/dataSet_path/val.txt
-
-# number of classes
-nc: 2
-
-# class names
-names: ["weed","conyza"]
