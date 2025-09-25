@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/15EeVQGCBORjYmLnFbpup_GIb8GJ6QsfZ?usp=dri
 
 
 ### Reference
-
+```
 @software{yolov8_ultralytics,
   author = {Glenn Jocher and Ayush Chaurasia and Jing Qiu},
   title = {Ultralytics YOLOv8},
@@ -23,3 +23,4 @@ https://drive.google.com/drive/folders/15EeVQGCBORjYmLnFbpup_GIb8GJ6QsfZ?usp=dri
   orcid = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
   license = {AGPL-3.0}
 }
+```
