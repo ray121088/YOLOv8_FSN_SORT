@@ -1,7 +1,9 @@
 # Individual plant detection and tracking for agricultural robotics in precision field management
 
 ## Overview
-
+1.	Developed a lightweight, accurate model for individual plant detection and tracking using StrongSORT.
+2.	Constructed a labeled dataset covering ten crop and weed species under natural field conditions.
+3.	Deployed and validated the model on Jetson Orin NX, demonstrating robust performance in both known and unseen environments.
 
 ## Prerequisites
 
