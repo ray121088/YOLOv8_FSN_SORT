@@ -12,11 +12,10 @@ https://drive.google.com/drive/folders/15EeVQGCBORjYmLnFbpup_GIb8GJ6QsfZ?usp=dri
 ```
 
 ### requirements
-```
   Python>=3.7.0
   torch>=1.8.0
   torchvision>=0.9.0
-```
+
 ### Reference
 
 ```
