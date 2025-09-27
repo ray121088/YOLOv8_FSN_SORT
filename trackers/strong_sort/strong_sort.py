@@ -59,12 +59,9 @@ class StrongSORT(object):
         self.tracker.predict()
         self.tracker.update(detections, clss, confs)
 
-        # output bbox identities
 
-        # 检测摄像头运动方向
         camera_motion = self.detect_camera_motion(ori_img)
 
-        # 输出检测结果,包括目标框和摄像头运动方向
         outputs = []
         for track in self.tracker.tracks:
             if not track.is_confirmed() or track.time_since_update > 1:
@@ -82,9 +79,6 @@ class StrongSORT(object):
         return outputs
 
     def detect_camera_motion(self, ori_img):
-        # 在此实现摄像头运动方向检测的代码
-        # 可以使用光流法或特征点跟踪等方法
-        # 这里假设返回一个字符串, 如 "up", "down", "left", "right"
       return "up"
 
     """
